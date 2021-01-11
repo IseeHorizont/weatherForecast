@@ -43,7 +43,7 @@ public class Controller {
     @FXML
     public void checkWeather(){
         String getUserCity = city.getText().trim();
-            String output = getUrlContent("http://api.openweathermap.org/data/2.5/weather?q=" + getUserCity + "&appid=ccb82a3c7dd962895a039007f0b8c827&units=metric");
+            String output = getUrlContent("http://api.openweathermap.org/data/2.5/weather?q=" + getUserCity + "&appid=someToken&units=metric");
 
             if(!output.isEmpty()){
                 JSONObject obj = new JSONObject(output);
