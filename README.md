@@ -1,3 +1,3 @@
 # weatherForecast
 my very simple app for weather forecast
-![screenshot](/tmp/startWindiws.png)
+![screenshot](/image/startWindiws.png)
