@@ -11,5 +11,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="javafx" level="project" />
     <orderEntry type="library" exported="" name="json-20190722" level="project" />
+    <orderEntry type="library" name="sqlite-jdbc-3.32.3.2" level="project" />
   </component>
 </module>
